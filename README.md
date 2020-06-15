@@ -1,1 +1,10 @@
-# COS-226
+## COS 226: Algorithms and Data Structures (Spring 2020)
+### Assignments:
+* Percolation (grade: 39/40)
+* Queues (40/40)
+* Autocomplete (40/40)
+* 8 Puzzle (40/40)
+* Kd-Trees (40/40)
+* WordNet (40/40)
+* Seam Carving (41/40)
+* Burrows-Wheeler (40/40)
